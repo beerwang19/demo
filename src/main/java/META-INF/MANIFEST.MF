@@ -16,5 +16,5 @@ Class-Path: tomcat-embed-core-9.0.17.jar spring-jcl-5.1.6.RELEASE.jar
  at-embed-el-9.0.17.jar spring-boot-autoconfigure-2.1.4.RELEASE.jar jb
  oss-logging-3.3.2.Final.jar classmate-1.4.0.jar spring-core-5.1.6.REL
  EASE.jar log4j-api-2.11.2.jar
-Main-Class: com.example.demo.DemoApplication
+Main-Class: com.example.DemoApplication
 
